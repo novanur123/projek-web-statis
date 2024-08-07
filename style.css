@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: pink;
+  /* background-color: pink; */
 }
 
 nav {
@@ -53,4 +53,10 @@ img.image-makanan {
 .running-text {
   margin-top: 2px;
   font-size: 20px;
+}
+
+.button {
+  cursor: pointer;
+  background-color: white;
+  padding: 7px;
 }
